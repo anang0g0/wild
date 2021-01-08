@@ -1,5 +1,7 @@
 # Wild-Goppa-code decoder
 
+うごかねぇ！ｗ
+
 This is a simple Python script available which demonstrates how
 to decode wild Goppa codes. The construction of the codes and the
 decoding algorithm are described in detail in the article
